@@ -11,7 +11,7 @@ const refs = {
 };
 
 axios.defaults.baseURL = 'https://pixabay.com/api/';
-const API_KEY = '38382218-99536ad77025498ca3a521a1b';
+const API_KEY = '38434178-c96f30a1336c663c47dd17ca9';
 const IMAGE_TYPE = 'photo';
 const IMAGE_ORIENTATION = 'horizontal';
 const IMAGE_SAFESEARCH = 'true';
